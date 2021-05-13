@@ -13,11 +13,19 @@ Main Dashboard:
 The main Page shows the branch performance for all there years with a slicer for year.
 
 Learnings:
+
 -Importing data from files or from online
+
 -Using Query Editor
+
 -Joining tables and creating tables
-- Creating custom columns and measures
+
+-Creating custom columns and measures
+
 -Designing charts and visualizations
+
 -Formulating via DAX logic
+
 •	Calculate, SUM, SUMX, FILTER, DATEDIFF
+
 •	SWITCH, NATURAL INNERJOIN
